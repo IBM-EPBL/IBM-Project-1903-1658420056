@@ -14,7 +14,7 @@ PNT2022TMID03384
 
 | Name             | Roll Number                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| [Sushiridha A](https://github.com/Sushiridha) | 212219040160 |
+| [Sushiridha A](https://github.com/Sushiridha)(Team Leader) | 212219040160 |
 | [Koppala Manasa](https://github.com/manasa26koppala) | 212219040064 |
 | [Abdul Anees A](https://github.com/Anzy-23)| 212219040001  |
 | [Arun Kumar S](https://github.com/Arun00211) | 212219040011 |
